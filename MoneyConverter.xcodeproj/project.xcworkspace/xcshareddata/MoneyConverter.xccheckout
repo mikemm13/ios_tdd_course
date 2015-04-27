@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DDEF6406-DE26-4016-83DA-59AAA237C591</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MoneyConverter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F57B58C93B525F7F25C6C02B47B596EF7F21D8CE</key>
+		<string>https://github.com/mikemm13/ios_tdd_course.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MoneyConverter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F57B58C93B525F7F25C6C02B47B596EF7F21D8CE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mikemm13/ios_tdd_course.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F57B58C93B525F7F25C6C02B47B596EF7F21D8CE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F57B58C93B525F7F25C6C02B47B596EF7F21D8CE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios_tdd_course</string>
+		</dict>
+	</array>
+</dict>
+</plist>
